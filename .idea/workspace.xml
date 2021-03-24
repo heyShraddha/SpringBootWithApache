@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04bd3c8e-b1df-481b-95b9-fcfefafeb5a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiAppDB/src/main/java/CoursesAPI/DTO/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAppDB/src/main/java/CoursesAPI/DTO/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/SPA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ApiAppDB/src/main/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\I524909\Documents\SpringAssignment\ApiAppDB\ApiAppDB\src\main\java" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -49,6 +55,7 @@
       <workItem from="1616346098058" duration="130000" />
       <workItem from="1616437252467" duration="1330000" />
       <workItem from="1616578826602" duration="191000" />
+      <workItem from="1616605803372" duration="400000" />
     </task>
     <servers />
   </component>

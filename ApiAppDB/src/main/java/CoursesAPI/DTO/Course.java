@@ -10,11 +10,13 @@ public class Course {
     private String id;
     private String name;
     private String description;
+    private String preReq;
 
-    public Course(String id, String name, String description) {
+    public Course(String id, String name, String description,String preReq) {
         this.id = id;
         this.name = name;
         this.description = description;
+        this.preReq = preReq;
     }
 
     public Course() {
@@ -28,6 +30,15 @@ public class Course {
     public void setName(String name) {
         this.name = name;
     }
+
+    public String getPreReq() {
+        return preReq;
+    }
+
+    public void setPreReq(String preReq) {
+        this.preReq = preReq;
+    }
+    
 
     public String getDescription() {
         return description;
