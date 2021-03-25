@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04bd3c8e-b1df-481b-95b9-fcfefafeb5a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiAppDB/src/main/java/CoursesAPI/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAppDB/src/main/java/CoursesAPI/controller/CourseController.java" afterDir="false" />
-    </list>
+    <list default="true" id="04bd3c8e-b1df-481b-95b9-fcfefafeb5a2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +41,7 @@
       <workItem from="1616578826602" duration="191000" />
       <workItem from="1616605803372" duration="400000" />
       <workItem from="1616684279327" duration="160000" />
+      <workItem from="1616690471261" duration="604000" />
     </task>
     <servers />
   </component>
