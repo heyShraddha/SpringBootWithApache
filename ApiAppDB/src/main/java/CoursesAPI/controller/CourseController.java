@@ -14,6 +14,8 @@ public class CourseController {
         this.CourseService = CourseService;
     }
 
+
+
     //Display all the values
     @RequestMapping("/courses")
     public List<Course> getAllCourses()
@@ -21,6 +23,8 @@ public class CourseController {
         return CourseService.getAllCourses();
     }
 
+
+    
     //Display a single entity
     @RequestMapping("/topics/{id}/courses")
     public Course getCourse(@PathVariable String id)
