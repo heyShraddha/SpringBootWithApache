@@ -28,6 +28,10 @@ public class CourseController {
         return CourseService.getCourse(id);
     }
 
+
+
+
+
     //Insert Operation
     @RequestMapping(method = RequestMethod.POST,value ="/courses")
     public void addCourse(@RequestBody Course course)
@@ -40,6 +44,11 @@ public class CourseController {
     {
         CourseService.updateCourse(course,id);
     }
+
+
+
+
+    
     //delete operation
     @RequestMapping(method = RequestMethod.DELETE,value ="/courses/{id}")
     public void deleteCourse(@RequestBody Course course, @PathVariable String id )
