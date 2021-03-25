@@ -38,7 +38,7 @@ public class Course {
     public void setPreReq(String preReq) {
         this.preReq = preReq;
     }
-    
+
 
     public String getDescription() {
         return description;
