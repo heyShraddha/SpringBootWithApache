@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04bd3c8e-b1df-481b-95b9-fcfefafeb5a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ApiAppDB/src/main/java/CoursesAPI/controller/CourseIdController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiAppDB/src/main/java/CoursesAPI/DTO/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApiAppDB/src/main/java/CoursesAPI/DTO/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/SPA" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,7 +58,7 @@
       <workItem from="1616605803372" duration="431000" />
       <workItem from="1616643048068" duration="1709000" />
       <workItem from="1616659818256" duration="21000" />
-      <workItem from="1616677877850" duration="112000" />
+      <workItem from="1616677877850" duration="578000" />
     </task>
     <servers />
   </component>
