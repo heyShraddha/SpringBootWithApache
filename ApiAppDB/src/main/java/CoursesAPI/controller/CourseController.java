@@ -48,7 +48,7 @@ public class CourseController {
 
 
 
-    
+
     //delete operation
     @RequestMapping(method = RequestMethod.DELETE,value ="/courses/{id}")
     public void deleteCourse(@RequestBody Course course, @PathVariable String id )
